@@ -6,11 +6,22 @@ img {
   margin-top: 25px;
 }
 
+.container {
+  background-color: rgb(70, 97, 185);
+}
+
 .info {
   text-align: center;
   margin: 15px;
 }
 
 .button {
+  text-align: center;
+}
+
+.contact {
+  margin-top: 25px;
+  margin-bottom: 45px;
+  color: white;
   text-align: center;
 }
