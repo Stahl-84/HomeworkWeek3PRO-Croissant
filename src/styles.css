@@ -1,0 +1,16 @@
+body {
+  width: 450px;
+}
+
+img {
+  margin-top: 25px;
+}
+
+.info {
+  text-align: center;
+  margin: 15px;
+}
+
+.button {
+  text-align: center;
+}
